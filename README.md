@@ -23,6 +23,8 @@ Ejemplo de la estructura del archivo fuente para timbrado (XML y TXT) para el ti
 7. [Recibo de Donativos](https://github.com/facturacionmoderna/Comprobantes/tree/master/Recibo%20de%20Donativos)
 8. [Carta Porte](https://github.com/facturacionmoderna/Comprobantes/tree/master/Carta%20Porte)
 9. [Pedimentos Aduanales](https://github.com/facturacionmoderna/Comprobantes)
+10. [Orçamento Online] (https://iferramentaria.com.br/gerador-de-orcamento-online/)
+11. [Calculadora de dias Úteis] (https://iferramentaria.com.br/contar-dias-uteis/)
 
 
 Por giro de negocio
